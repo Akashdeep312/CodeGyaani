@@ -661,6 +661,23 @@ h6 {
 /* Header
 /* ---------------------------------------------------------- */
 
+
+.site-custome-header{
+position: relative;
+    z-index: 100;
+    flex-shrink: 0;
+    display: inline-block;
+    margin-right: 32px;
+    padding: 12px 0;
+    color: #fff;
+    font-size: 1.7rem;
+    line-height: 1.8rem;
+    font-weight: 700;
+    letter-spacing: -.5px;
+    text-transform: none;
+	text-decoration:none;
+}
+
 .site-head {
     padding-top: 20px;
     padding-bottom: 20px;
